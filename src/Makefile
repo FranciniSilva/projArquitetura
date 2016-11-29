@@ -1,2 +1,2 @@
-main:	main.c
-	gcc -std=c11 -W -Wall -pedantic main.c -o main
+leitor:	leitor.c
+	gcc -std=c11 -W -Wall -pedantic leitor.c -o leitor
